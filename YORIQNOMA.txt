@@ -1,0 +1,71 @@
+ai_vedeolarr SAYTI (PREMIUM + SEO) — YO‘RIQNOMA
+================================================
+
+PAPKA TUZILISHI
+  index.html          — Bosh sahifa: 3D kino-lentalar, kino sanog‘i (3-2-1), kinoteka, loyiha chiptasi
+  men-haqimda.html    — Men haqimda
+  xizmatlar.html      — Xizmatlar (5 ta)
+  natijalar.html      — Natijalar, keyslar va to‘liq kinoteka (47 kadr)
+  savollar.html       — Savollar (7 ta)
+  aloqa.html          — Aloqa + loyiha chiptasi (Telegram’ga tayyor xabar)
+  ru/                 — xuddi shu 6 sahifaning ruscha varianti
+  css/style.css       — dizayn (qora, tilla, binafsha)
+  js/main.js          — effektlar va tugmalar
+  js/three.min.js     — 3D kino-lentalar uchun kutubxona
+  fonts/              — saytning shriftlari
+  images/works/       — ishlaringiz kadrlari (eski saytingizdan olingan 47 ta kadr)
+  images/works/thumb/ — o‘sha kadrlarning kichik nusxalari (tez yuklanish uchun)
+  sitemap.xml, robots.txt, favicon, site.webmanifest, 404.html
+  google045ea16d42d9b96e.html — Google Search Console tasdiqlash fayli (O‘CHIRMANG)
+
+
+1. ZIP’NI OCHISH
+  Kompyuter: ZIP ustida o‘ng tugma → «Извлечь все / Extract all».
+  Telefon: «Fayllar» ilovasida ZIP’ni bosing → «Chiqarish».
+
+
+2. RASMLARNI QO‘YISH
+  images/ papkasida 3 ta «RASM UCHUN JOY» bor. O‘z rasmingizni AYNAN SHU NOM bilan
+  saqlab, eskisining o‘rniga qo‘ying — kod o‘zgarmaydi:
+
+  jamshid-abduqosimov.jpg  800×1000  — o‘z portret fotongiz (Men haqimda sahifasi)
+  keys-instagram.jpg       1200×750  — Instagram 0 → 10 000 obunachi statistikasi skrinshoti
+  keys-bogcha.jpg          1200×750  — bog‘cha reklamasi va natija skrinshoti
+
+  Kadrni almashtirish: images/works/ ichidagi istalgan faylni xuddi shu nom bilan
+  yangi kadrga almashtiring (o‘lcham 472×422 atrofida). images/works/thumb/ ichidagi
+  shu nomli kichik nusxani ham almashtiring (236×211).
+
+  Maslahat: rasm 200 KB dan oshmasin (siqish: squoosh.app, JPG, sifat 75–80).
+
+
+3. SAYTNI INTERNETGA CHIQARISH — NETLIFY
+  a) app.netlify.com → «sparkly-sundae-3ed3ee» saytingizni oching.
+  b) «Deploys» bo‘limiga o‘ting.
+  c) «ai_vedeolarr-sayt» PAPKASINI (ochilgan papkani, ZIP’ni emas) sahifadagi
+     «Drag and drop your site output folder here» maydoniga sudrab tashlang.
+  d) 10–30 soniyada sayt yangilanadi.
+
+  Google Search Console:
+  e) Sayt yangilangach, «ПОДТВЕРДИТЬ» tugmasini bosing — tasdiqlash fayli sayt ichida.
+  f) «Файлы Sitemap» → «sitemap.xml» → «Отправить».
+  g) Yandex: webmaster.yandex.ru → saytni qo‘shing → Sitemap: sitemap.xml.
+
+
+4. GITHUB PAGES (boshqa variant)
+  a) github.com da yangi repository oching.
+  b) «Add file → Upload files» → papka ichidagi BARCHA fayl va papkalarni tashlang → Commit.
+  c) Settings → Pages → Branch: main, / (root) → Save.
+  MUHIM: manzil o‘zgarsa, 5-bandni bajaring.
+
+
+5. DOMEN OLSANGIZ (yoki manzil o‘zgarsa)
+  Barcha fayllarda «https://sparkly-sundae-3ed3ee.netlify.app» ni yangi manzilga almashtiring
+  (VS Code: Ctrl+Shift+H → hammasini almashtirish). Fayllar: barcha .html, sitemap.xml, robots.txt.
+
+
+6. KEYIN QO‘SHISH MUMKIN (ma’lumot berilmagan, shuning uchun saytda yo‘q)
+  - Diplom va sertifikatlar
+  - Mijozlarning so‘zma-so‘z fikrlari (hozir ism va natija bor)
+  - Xaritadagi aniq nuqta (hozir tugma manzil bo‘yicha qidiradi)
+  - Boshqa tillar: tojikcha, qirg‘izcha, qozoqcha, arabcha, yaponcha

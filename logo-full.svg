@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 96"><title>ai_vedeolarr</title><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F6DC8C"/><stop offset=".5" stop-color="#E2B84C"/><stop offset="1" stop-color="#A87A1F"/></linearGradient>
+<linearGradient id="v" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C4B5FD"/><stop offset="1" stop-color="#7C3AED"/></linearGradient></defs>
+<g transform="translate(8 8) scale(1.25)"><rect width="64" height="64" rx="16" fill="#0D0B12"/><rect x="1" y="1" width="62" height="62" rx="15" fill="none" stroke="url(#g)" stroke-opacity=".45" stroke-width="1.2"/><path d="M20 17.6v28.8a2.2 2.2 0 0 0 3.3 1.9l24.2-14.4a2.2 2.2 0 0 0 0-3.8L23.3 15.7a2.2 2.2 0 0 0-3.3 1.9z" fill="url(#g)"/>
+<path d="M47 8.5l1.9 4.9 4.9 1.9-4.9 1.9-1.9 4.9-1.9-4.9-4.9-1.9 4.9-1.9z" fill="url(#v)"/></g>
+<text x="102" y="62" font-family="Fira Sans Extra Condensed Black, Arial Narrow, sans-serif" font-weight="900" font-size="52" fill="#F3ECE2">AI<tspan fill="url(#g)">_</tspan>VEDEOLARR</text>
+<text x="104" y="86" font-family="Onest, Arial, sans-serif" font-size="13" font-weight="600" fill="#A78BFA" letter-spacing="3">AI CREATOR · JAMSHID</text></svg>

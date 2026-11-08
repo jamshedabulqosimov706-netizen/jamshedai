@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://sparkly-sundae-3ed3ee.netlify.app/sitemap.xml
+Host: https://sparkly-sundae-3ed3ee.netlify.app
